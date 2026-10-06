@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://djgit113.github.io/ekam-legal/sitemap.xml
